@@ -1,5 +1,5 @@
 ---
-title: "Extending the usefulness of the verbal memory test: The promise of machine learning."
+title: "Extending the usefulness of the verbal memory test: The promise of machine learning"
 collection: publications
 permalink: /publication/psychresearch2021
 date: 2021-01-25

@@ -1,6 +1,6 @@
 ---
 title: "Overcoming the bottleneck in traditional assessments of verbal memory:
-Modeling human ratings and classifying clinical group membership."
+Modeling human ratings and classifying clinical group membership"
 collection: publications
 permalink: /publication/clpsych2019
 date: 2019-06-06

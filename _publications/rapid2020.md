@@ -1,5 +1,5 @@
 ---
-title: "Predicting Self-Reported Affect from Speech Acoustics and Language."
+title: "Predicting Self-Reported Affect from Speech Acoustics and Language"
 collection: publications
 permalink: /publication/rapid2020
 date: 2020-05-11
