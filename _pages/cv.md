@@ -7,19 +7,22 @@ redirect_from:
   - /resume
 ---
 
+<a href="../files/Chelsea_Chandler_CV_Jan18_2021_.pdf">View online!</a>
+
 {% include base_path %}
 
 Education
 ======
-* B.A. in Computer Science & Mathematics, University of Virginia, 2012
+* B.A. in Computer Science & Mathematics, University of Virginia, 2016
 * M.S. in Computer Science, University of Colorado Boulder, 2020
 * Ph.D in Computer Science & Cognitive Science, University of Colorado Boulder, 2022 (expected)
 
 Teaching
 ======
-<ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Senior Capstone Project TA (Fall 2020 and Spring 2021)
+* Graduate Natural Language Processing TA (Fall 2019)
+* Software Development Methods and Tools TA (Fall 2018, Spring 2019, and Spring 2020)
+* Introduction to Computing TA (Fall 2017 and Spring 2018)
 
 Research
 ======
@@ -41,21 +44,13 @@ Research
   * Extracted surface level and semantic features from verbal recalls to build machine learning models for predicting human ratings of recall content and classifying participants as mentally ill or healthy
   * Modeled speech and language features to predict self-reports of emotion
 
-
 Publications
 ======
 <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-<ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
-
-Work experience
+Work Experience
 ======
 ### Lockheed Martin (December 2016 - March 2019)
 * Software Engineer
