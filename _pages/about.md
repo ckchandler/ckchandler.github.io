@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey I'm Chelsea! I am a 4th year PhD student at the University of Colorado Boulder in the [Department of Computer Science](https://www.colorado.edu/cs/) and the [Institute of Cognitive Science](https://www.colorado.edu/ics/). I am advised by [Peter Foltz](http://peterfoltz.me/) and [Jim Martin](https://home.cs.colorado.edu/~martin/). I recieved my B.A. in Math and Computer Science at the [University of Virginia](https://www.virginia.edu/) in 2016, completed my M.S. in Computer Science at CU Boulder in 2020, and expect to finish my Ph.D. in Spring 2022.
+I am a 4th year PhD student at the University of Colorado Boulder in the [Department of Computer Science](https://www.colorado.edu/cs/) and the [Institute of Cognitive Science](https://www.colorado.edu/ics/). I am advised by [Peter Foltz](http://peterfoltz.me/) and [Jim Martin](https://home.cs.colorado.edu/~martin/). I recieved my B.A. in Math and Computer Science at the [University of Virginia](https://www.virginia.edu/) in 2016, completed my M.S. in Computer Science at CU Boulder in 2020, and expect to finish my Ph.D. in Spring 2022.
 
 My research interests are at the intersection of natural language processing/machine learning and cognitive science/psychiatry. I use computational methods to analyze the language and behavior of people with mental illness. In a world where mobile health is becoming increasingly important (*\*cough\** COVID-19), this sort of approach allows patients who can't get in to see a clinician to be monitored remotely, frequently, and accurately. 
 
