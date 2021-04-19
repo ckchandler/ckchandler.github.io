@@ -2,7 +2,7 @@
 title: "Acceptability of Collecting Speech Samples from the Elderly via the Telephone"
 collection: publications
 permalink: /publication/dighealth2021
-date: 2021-01
+date: 2021-01-01
 venue: 'DIGITAL HEALTH'
 paperurl: '/files/publications/dighealth2021.pdf'
 link: 'https://doi.org/10.1177/20552076211002103'
