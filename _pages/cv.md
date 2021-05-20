@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="../files/Chelsea_Chandler_CV_April192021.pdf">View online!</a>
+<a href="../files/Chelsea_Chandler_CV_May2021.pdf">View online!</a>
 
 {% include base_path %}
 
@@ -19,6 +19,7 @@ Education
 
 Teaching
 ======
+* Introduction to Computing GPTI (Summer 2021)
 * Senior Capstone Project TA (Fall 2020 and Spring 2021)
 * Graduate Natural Language Processing TA (Fall 2019)
 * Software Development Methods and Tools TA (Fall 2018, Spring 2019, and Spring 2020)
@@ -32,7 +33,10 @@ Research
   * Implemented machine learning models based on language features to characterize Mild Cognitive Impairment and Alzheimer's Disease
 
 ### University of Colorado Boulder
-* Educational AI (Fall 2020 - Present)
+* Students at Risk Detection (Summer 2021)
+  * Researching and applying approaches to automatically flag abusive behavior, protected class discrimination, and harm to self and others in CU Boulder student FCQ data using state of the art natural langauge processing and machine learning techniques
+  * Defining a human in the loop evaluation pipeline where machine learning predictions and human expertise are harnessed together
+* Educational AI (Fall 2020)
   * Extracted BERT sentence embeddings of student speech transcripts for use in an AI tutoring system
   * Fine-tuned a pre-trained BERT model for use in a novel AI tutoring system
 * Word Embedding API/Website (Fall 2019)
@@ -77,6 +81,7 @@ Work Experience
 
 Funding and Awards
 ======
+* CU Boulder Computer Science Outstanding Research Award (2021)
 * Nelson A. Prager Family and James H. Martin Endowed Graduate Fellowship (2020)
 * CU Boulder Summer Research Fellowship for an outstanding Ph.D. TA (2019)
 * Travel grant to attend the CRA-W Grad Cohort Workshop for Women (2018 and 2019)
