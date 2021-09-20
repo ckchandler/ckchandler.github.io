@@ -7,15 +7,15 @@ redirect_from:
   - /resume
 ---
 
-<a href="../files/Chelsea_Chandler_CV_May2021.pdf">View online!</a>
+<a href="../files/Chelsea_Chandler_CV_Sept2021.pdf">View online</a>
 
 {% include base_path %}
 
 Education
 ======
-* B.A. in Computer Science & Mathematics, University of Virginia, 2016
-* M.S. in Computer Science, University of Colorado Boulder, 2020
-* Ph.D in Computer Science & Cognitive Science, University of Colorado Boulder, 2022 (expected)
+* BA in Computer Science & Mathematics, University of Virginia, 2016
+* MS in Computer Science, University of Colorado Boulder, 2020
+* PhD in Computer Science & Cognitive Science, University of Colorado Boulder, 2022 (expected)
 
 Teaching
 ======
@@ -27,13 +27,8 @@ Teaching
 
 Research
 ======
-### Marymount University
-* Computational Psychiatry (April 2019 - Present)
-  * Developed a pipeline to extract Natural Language Processing features from psychiatric speech data
-  * Implemented machine learning models based on language features to characterize Mild Cognitive Impairment and Alzheimer's Disease
-
 ### University of Colorado Boulder
-* Students at Risk Detection (Summer 2021)
+* Students at Risk Detection (Summer 2021 - Present)
   * Researching and applying approaches to automatically flag abusive behavior, protected class discrimination, and harm to self and others in CU Boulder student FCQ data using state of the art natural langauge processing and machine learning techniques
   * Defining a human in the loop evaluation pipeline where machine learning predictions and human expertise are harnessed together
 * Educational AI (Fall 2020)
@@ -47,6 +42,11 @@ Research
   * Collected immediate and delayed verbal recalls to short stories from mentally ill and presumed healthy study participants
   * Extracted surface level and semantic features from verbal recalls to build machine learning models for predicting human ratings of recall content and classifying participants as mentally ill or healthy
   * Modeled speech and language features to predict self-reports of emotion
+
+### Marymount University
+* Computational Psychiatry (April 2019 - Present)
+  * Developed a pipeline to extract Natural Language Processing features from psychiatric speech data
+  * Implemented machine learning models based on language features to characterize Mild Cognitive Impairment and Alzheimer's Disease
 
 Publications
 ======
@@ -79,6 +79,15 @@ Work Experience
   * Developed collaborative filtering models based on the Yelp Challenge Dataset for rating predictions which incorporated matrix factorization, natural language processing, topic modeling, and geographic location
   * Presented project findings at the Institute for Pure and Applied Mathematics at UCLA, Google, and the 2016 Joint Mathematics Meetings
 
+Relevant Skills
+======
+### Programming Languages
+* Proficiency with Python, C++, HTML, CSS, JavaScript, \LaTeX; Familiarity with MATLAB, R
+### Libraries
+* Scikit-learn, Pandas, NumPy, SciPy, Altair, Matplotlib, TensorFlow, PyTorch
+### Platforms
+* GitHub, Google Cloud Services, Amazon Web Services
+
 Funding and Awards
 ======
 * CU Boulder Computer Science Outstanding Research Award (2021)
@@ -92,6 +101,6 @@ Funding and Awards
 Service 
 ======
 * Reviewer for *Schizophrenia Bulletin* and *Psychiatry Research*
-* Ph.D. Student Faculty Search Committee
+* PhD Student Faculty Search Committee
 * CU Boulder Graduate School Peer Mentor
 * CU Boulder Computer Science Peer Mentor

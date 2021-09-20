@@ -8,4 +8,4 @@ date: 2018-09-01
 location: "Boulder, Colorado"
 ---
 
-Fall 2018, Spring 2019, and Spring 2020
+Fall 2018 (Teaching Assistant), Spring 2019 (Teaching Assistant), and Spring 2020 (Teaching Assistant)
