@@ -82,11 +82,11 @@ Work Experience
 Relevant Skills
 ======
 ### Programming Languages
-* Proficiency with Python, C++, HTML, CSS, JavaScript, \LaTeX; Familiarity with MATLAB, R
+Proficiency with Python, C++, HTML, CSS, JavaScript, \LaTeX; Familiarity with MATLAB, R
 ### Libraries
-* Scikit-learn, Pandas, NumPy, SciPy, Altair, Matplotlib, TensorFlow, PyTorch
+Scikit-learn, Pandas, NumPy, SciPy, Altair, Matplotlib, TensorFlow, PyTorch
 ### Platforms
-* GitHub, Google Cloud Services, Amazon Web Services
+GitHub, Google Cloud Services, Amazon Web Services
 
 Funding and Awards
 ======
