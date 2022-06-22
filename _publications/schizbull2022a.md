@@ -2,7 +2,7 @@
 title: "Improving the Applicability of AI for Psychiatric Applications through Human-in-the-loop Methodologies"
 collection: publications
 permalink: /publication/schizbull2022a
-date: 2020-05-26
+date: 2022-05-26
 venue: 'Schizophrenia Bulletin'
 paperurl: '/files/publications/schizbull2022a.pdf'
 link: 'https://doi.org/10.1093/schbul/sbac038'
