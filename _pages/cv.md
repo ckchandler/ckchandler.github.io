@@ -7,15 +7,15 @@ redirect_from:
   - /resume
 ---
 
-<a href="../files/Chelsea_Chandler_CV_Nov21.pdf">View online</a>
+<a href="../files/Chelsea_Chandler_CV_June2022.pdf">View online</a>
 
 {% include base_path %}
 
 Education
 ======
-* BA in Computer Science & Mathematics, University of Virginia, 2016
+* PhD in Computer Science & Cognitive Science, University of Colorado Boulder, 2022 
 * MS in Computer Science, University of Colorado Boulder, 2020
-* PhD in Computer Science & Cognitive Science, University of Colorado Boulder, 2022 (expected)
+* BA in Computer Science & Mathematics, University of Virginia, 2016
 
 Teaching
 ======
@@ -28,9 +28,14 @@ Teaching
 Research
 ======
 ### University of Colorado Boulder
-* Students at Risk Detection (Summer 2021 - Present)
-  * Researching and applying approaches to automatically flag abusive behavior, protected class discrimination, and harm to self and others in CU Boulder student FCQ data using state of the art natural langauge processing and machine learning techniques
-  * Defining a human in the loop evaluation pipeline where machine learning predictions and human expertise are harnessed together
+
+* Postdoctoral Researcher (Summer 2022 - Present)
+  * Analyzing language data from people with neurocognitive disorders 
+  * Developing and validating AI-based explainability methods that link language features to clinical biomarkers to improve clinical interpretability and transparency.
+  * Conducting participatory design for the creation of clinician interfaces for AI-generated decisions
+* Students at Risk Detection (Summer 2021 - Spring 2022)
+  * Created approaches to automatically flag abusive behavior, protected class discrimination, and harm to self and others in CU Boulder Faculty Course Questionnaire responses using state of the art natural language processing and machine learning techniques
+  * Defined a human in the loop evaluation pipeline where machine learning predictions and human expertise are harnessed together
 * Educational AI (Fall 2020)
   * Extracted BERT sentence embeddings of student speech transcripts for use in an AI tutoring system
   * Fine-tuned a pre-trained BERT model for use in a novel AI tutoring system
@@ -44,7 +49,7 @@ Research
   * Modeled speech and language features to predict self-reports of emotion
 
 ### Marymount University
-* Computational Psychiatry (April 2019 - Present)
+* Computational Psychiatry (April 2019 - Spring 2022)
   * Developed a pipeline to extract Natural Language Processing features from psychiatric speech data
   * Implemented machine learning models based on language features to characterize Mild Cognitive Impairment and Alzheimer's Disease
 
