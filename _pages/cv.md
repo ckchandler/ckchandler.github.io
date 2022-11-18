@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="../files/Chelsea_Chandler_CV_Oct2022.pdf">View online</a>
+<a href="../files/Chelsea_Chandler_CV_Nov2022.pdf">View online</a>
 
 {% include base_path %}
 
@@ -30,11 +30,11 @@ Research
 ### University of Colorado Boulder
 
 * Postdoctoral Researcher (Summer 2022 - Present)
-  * Analyzing language data from people with neurocognitive disorders 
-  * Developing and validating AI-based explainability methods that link language features to clinical biomarkers to improve clinical interpretability and transparency.
+  * Developed the wordvec.colorado.edu website that supports BERT, word2vec, and LSA-based semantic language comparisons with an understandable and easy to use interface 
+  * Developing and validating AI-based explainability methods that link language features to neurodegenerative clinical biomarkers to improve clinical interpretability and transparency.
   * Conducting participatory design for the creation of clinician interfaces for AI-generated decisions
 * Students at Risk Detection (Summer 2021 - Spring 2022)
-  * Created approaches to automatically flag abusive behavior, protected class discrimination, and harm to self and others in CU Boulder Faculty Course Questionnaire responses using state of the art natural language processing and machine learning techniques
+  * Created a tool to automatically flag abusive behavior, protected class discrimination, and harm to self and others in CU Boulder Faculty Course Questionnaire responses using state of the art natural language processing and machine learning techniques
   * Defined a human in the loop evaluation pipeline where machine learning predictions and human expertise are harnessed together
 * Educational AI (Fall 2020)
   * Extracted BERT sentence embeddings of student speech transcripts for use in an AI tutoring system
