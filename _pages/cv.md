@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="../files/Chelsea_Chandler_CV_Nov2022.pdf">View online</a>
+<a href="../files/Chelsea_Chandler_CV_11032024.pdf">View online</a>
 
 {% include base_path %}
 
