@@ -30,9 +30,12 @@ Research
 ### University of Colorado Boulder
 
 * Postdoctoral Researcher (Summer 2022 - Present)
+  * Conducting research at the intersection of AI, NLP, and education, focusing on the automated analysis of student discourse in collaborative learning environments
+  * Investigating and mitigating algorithmic bias in speech recognition systems and their downstream impact on NLP models used in classroom analytics
+  * Designing and evaluating methods for improving generalizability of discourse classification models, with an emphasis on supporting diverse curricula and student populations
+  * Leveraged explainable AI to present model noticings as actionable insights for educators during real-time formative assessment
   * Developed the wordvec.colorado.edu website that supports BERT, word2vec, and LSA-based semantic language comparisons with an understandable and easy to use interface 
-  * Developing and validating AI-based explainability methods that link language features to neurodegenerative clinical biomarkers to improve clinical interpretability and transparency.
-  * Conducting participatory design for the creation of clinician interfaces for AI-generated decisions
+  * Created AI-based explainability methods that link language features to neurodegenerative clinical biomarkers to improve clinical interpretability and transparency.
 * Students at Risk Detection (Summer 2021 - Spring 2022)
   * Created a tool to automatically flag abusive behavior, protected class discrimination, and harm to self and others in CU Boulder Faculty Course Questionnaire responses using state of the art natural language processing and machine learning techniques
   * Defined a human in the loop evaluation pipeline where machine learning predictions and human expertise are harnessed together
@@ -95,6 +98,7 @@ GitHub, Google Cloud Services, Amazon Web Services
 
 Funding and Awards
 ======
+* Honorable Mention recognition for paper at CHI 2025
 * CU Boulder Computer Science Outstanding Research Award (2021)
 * Nelson A. Prager Family and James H. Martin Endowed Graduate Fellowship (2020)
 * CU Boulder Summer Research Fellowship for an outstanding Ph.D. TA (2019)
@@ -105,7 +109,7 @@ Funding and Awards
   
 Service 
 ======
-* Reviewer for *Schizophrenia Bulletin* and *Psychiatry Research*
+* Reviewer for *AIED 2025*, *CHI 2025*, *Communications Medicine*, *Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring*, *European Science Foundation – Science Connect*, *Schizophrenia Bulletin* and *Psychiatry Research*
 * PhD Student Faculty Search Committee
 * CU Boulder Graduate School Peer Mentor
 * CU Boulder Computer Science Peer Mentor
