@@ -2,11 +2,12 @@
 title: "The Community Builder (CoBi): Helping Students to Develop Better Small Group Collaborative Learning Skills"
 collection: publications
 permalink: /publication/Breideband_CSCW_2023
-date: 2023-05-16
-venue: "Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring"
-paperurl: '/files/publications/AlzDem_2023.pdf'
-link: 'https://doi.org/10.1002/dad2.12516'
-citation: "Chandler, C., Diaz‐Asper, C., Turner, R.S., Reynolds, B., Elvevåg, B. (2023). An explainable machine learning model of cognitive decline derived from speech. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring. Volume 15, Issue 4.
+date: 2023-10-14
+venue: "Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing"
+paperurl: '/files/publications/Breideband_CSCW_2023.pdf'
+link: 'https://doi.org/10.1145/3584931.3607498'
+citation: "Breideband, T., Bush, J., Chandler, C., Chang, M., Dickler, R., Foltz, P.W., Ganesh, A., Lieber, R., Penuel, W.R., Reitman, J.G., Weatherley, J., D'Mello, S.K.
+ (2023). The Community Builder (CoBi): Helping Students to Develop Better Small Group Collaborative Learning Skills. Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing. Pages 376-380."
 
 ---
 
