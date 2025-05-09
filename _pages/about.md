@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Colorado Boulder developing AI and natural language processing (NLP) methods to support collaborative learning and student communication in the classroom. My work focuses on creating transparent and generalizable language technologies for analyzing student discourse, with applications in real-time feedback, classroom analytics, and AI-augmented assistance. I am interested in mitigating algorithmic bias and enhancing model generalizability across diverse educational contexts.
+I am a postdoctoral researcher at the University of Colorado Boulder developing AI and natural language processing (NLP) methods to support collaborative learning and student communication in the classroom. My work focuses on creating transparent and generalizable language technologies for analyzing student discourse, with applications in real-time feedback and classroom analytics. I am interested in mitigating algorithmic bias and enhancing model generalizability across diverse educational contexts.
 
 I continue to explore the topic of my PhD dissertation - the intersections between AI and mental health, particularly through speech-based machine learning models for understanding neurodegenerative and psychiatric disorders. My approach integrates principles of explainable AI and human-centered design, with the goal of building ethical, actionable tools for use in clinical settings.
 
